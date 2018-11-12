@@ -237,7 +237,7 @@ from FlaskApp import app as application
   1. Restart Apache server:
  ```sudo service apache2 restart```
   
-Now you should be able to run the application at [http://34.207.77.81.xip.io/](http://34.207.77.81.xip.io/)
+Now you should be able to run the application at [http://13.232.247.250/](http://13.232.247.250/)
 
 Note: You might still see the default Apache page despite setting everything up correctly. To resolve it and see your Flask app running, run the following commands in order:
 
