@@ -12,7 +12,7 @@ To complete this project, you'll need a Linux server instance. We recommend usin
 ## Link to project:[Item Catalog](https://github.com/Chaithra-J/Item-catalogs.git catalog)
 * Public IP:
 * ssh port: 2200
-* Hosted website: [http://13.232.247.250](http://34.207.77.81), [http://ec2-13-232-247-250.ap-south-1.compute.amazonaws.com](http://ec2-13-232-247-250.ap-south-1.compute.amazonaws.com)
+* Hosted website: [http://13.232.247.250](http://13.232.247.250), [http://ec2-13-232-247-250.ap-south-1.compute.amazonaws.com](http://ec2-13-232-247-250.ap-south-1.compute.amazonaws.com)
 * IP address: 34.207.77.81
 
 ## Software Installed:
