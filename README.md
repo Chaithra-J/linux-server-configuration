@@ -13,7 +13,7 @@ To complete this project, you'll need a Linux server instance. We recommend usin
 * Public IP:
 * ssh port: 2200
 * Hosted website: [http://13.232.247.250](http://13.232.247.250), [http://ec2-13-232-247-250.ap-south-1.compute.amazonaws.com](http://ec2-13-232-247-250.ap-south-1.compute.amazonaws.com)
-* IP address: 34.207.77.81
+* IP address: 13.232.247.250
 
 ## Software Installed:
 * Apache2
